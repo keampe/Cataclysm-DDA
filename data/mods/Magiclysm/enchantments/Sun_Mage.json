@@ -11,6 +11,7 @@
     "shape": "blast",
     "min_damage": 2,
     "max_damage": 2,
+    "damage_type": "pure",
     "min_range": 1,
     "max_range": 1,
     "min_duration": 200,
