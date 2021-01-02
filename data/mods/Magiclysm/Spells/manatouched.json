@@ -34,6 +34,7 @@
     "min_damage": 6,
     "max_damage": 18,
     "damage_increment": 1,
+    "damage_type": "pure",
     "max_level": 12,
     "min_range": 6,
     "max_range": 12,
